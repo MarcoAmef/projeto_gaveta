@@ -1,0 +1,6 @@
+[
+  { "nome": "Sushi", "preco": 20.0 },
+  { "nome": "Hamburguer", "preco": 15.0 },
+  { "nome": "Salada", "preco": 12.0 },
+  { "nome": "Pizza", "preco": 18.0 }
+]

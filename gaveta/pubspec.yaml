@@ -1,0 +1,32 @@
+name: chatboa
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.0.2
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/pratos.json
+    - assets/pedido.json
+    - assets/imagens/sushi.png
+    - assets/imagens/burger.png
+    - assets/imagens/salad.png
+    - assets/imagens/pizza.png
+    - assets/imagens/waiter.png
+    - assets/imagens/pencil.png
+    - assets/imagens/receipt.png
+    - assets/imagens/default.png
